@@ -33,3 +33,20 @@ The model is trained to recognize the following skin conditions:
 5. The result is sent back to the mobile app and displayed to the user.  
 
 ---
+
+## Project Structure
+
+Skin-Diseases-Helper/
+├── android_project/
+│   └── ... 
+├── backend/
+│   ├── diseases_helper.h5
+│   └── main.py
+├── neural_network/
+│   └── diseases_helper.ipynb
+└── requirements.txt
+
+---
+
+## User Interface
+
