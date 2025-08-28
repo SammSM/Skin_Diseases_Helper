@@ -51,7 +51,6 @@ Skin-Diseases-Helper/
 ## User Interface
 
 <img src="main_page.png" alt="Home Screen" width="300"/>
-![Alt Text](main_page.png)
-![Alt Text](upload_page.png)
-![Alt Text](scanning.png)
-![Alt Text](prediction.png)
+<img src="upload_page.png" alt="Home Screen" width="300"/>
+<img src="scanning.png" alt="Home Screen" width="300"/>
+<img src="prediction.png" alt="Home Screen" width="300"/>
