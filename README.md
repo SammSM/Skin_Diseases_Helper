@@ -50,3 +50,7 @@ Skin-Diseases-Helper/
 
 ## User Interface
 
+![Alt Text](main_page.png)
+![Alt Text](upload_page.png)
+![Alt Text](scanning.png)
+![Alt Text](prediction.png)
