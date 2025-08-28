@@ -24,7 +24,7 @@ The model is trained to recognize the following skin conditions:
 
 ---
 
-## How It Works  
+## ⚙️ How It Works  
 
 1. The user opens the Android app and uploads or captures a skin photo.  
 2. The image is sent to the **FastAPI backend**.  
