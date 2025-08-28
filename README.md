@@ -35,7 +35,7 @@ The model is trained to recognize the following skin conditions:
 ---
 
 ## Project Structure
-
+```
 Skin-Diseases-Helper/
 ├── android_project/
 │   └── ... 
@@ -45,7 +45,7 @@ Skin-Diseases-Helper/
 ├── neural_network/
 │   └── diseases_helper.ipynb
 └── requirements.txt
-
+```
 ---
 
 ## User Interface
