@@ -57,4 +57,3 @@ Skin-Diseases-Helper/
   <img src="prediction.png" alt="Prediction" width="200"/>
 </p>
 
-
