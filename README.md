@@ -53,6 +53,9 @@ Skin-Diseases-Helper/
 <p align="center">
   <img src="main_page.png" alt="Home Screen" width="250"/>
   <img src="upload_page.png" alt="Upload Page" width="250"/>
+</p>
+<p align="center">
   <img src="scanning.png" alt="Scanning" width="250"/>
   <img src="prediction.png" alt="Prediction" width="250"/>
 </p>
+
