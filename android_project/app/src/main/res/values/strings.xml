@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkinDiseasesApp</string>
+    <string name="skin_disaster">Skin Disaster Helper</string>
+    <string name="login">Login</string>
+</resources>
